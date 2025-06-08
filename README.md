@@ -1,4 +1,4 @@
-# CHATBOT
+# AI VOICE ASSISTANT
 
 ## SETUP
 - Create a [LiveKit](https://cloud.livekit.io/login?r=%2F) API key
