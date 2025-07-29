@@ -1,5 +1,5 @@
 # AI VOICE ASSISTANT
-his project integrates a **multilingual voice assistant** with real-time **object detection** to enable a humanoid robot to interact naturally with its environment. The assistant uses speech recognition, text-to-speech, and contextual conversation via OpenAI's API to understand and respond to user queries in multiple languages.
+This project integrates a **multilingual voice assistant** with real-time **object detection** to enable a humanoid robot to interact naturally with its environment. The assistant uses speech recognition, text-to-speech, and contextual conversation via OpenAI's API to understand and respond to user queries in multiple languages.
 
 ## Features
 
